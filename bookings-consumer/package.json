@@ -12,7 +12,7 @@
     "aws-sdk": "^2.540.0"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-datetime": "^2.1.2"
   }
 }
